@@ -84,8 +84,4 @@
 </div>
 
 ###
-<style>
-  body{
-    background-color= black;
-  }
-</style>
+
