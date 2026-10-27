@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/conclave-logo-on-dark.svg">
-    <img src="assets/conclave-logo-on-light.svg" alt="Conclave AI" height="64">
+    <source media="(prefers-color-scheme: dark)" srcset="conclave-logo-on-dark.svg">
+    <img src="conclave-logo-on-light.svg" alt="Conclave AI" height="64">
   </picture>
 </div>
 
