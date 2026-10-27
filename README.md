@@ -1,4 +1,13 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneeshanif/maneeshanif/main/assets/conclave-logo-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/maneeshanif/maneeshanif/main/assets/conclave-logo-on-light.svg" alt="Conclave AI" height="64">
+  </picture>
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/maneeshanif"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
   <a href="mailto:manees7865@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" /></a>
 </div>
@@ -29,10 +38,19 @@
 
 <h3 align="left">What I do</h3>
 
-- **AI agents:** OpenAI Agents SDK, Anthropic SDK, LangGraph, MCP servers, RAG (Qdrant, pgvector)
-- **Automation:** n8n workflows, Vapi voice agents, WhatsApp and Meta API integrations
+- **AI agents:** Claude Agent SDK, OpenAI Agents SDK, Anthropic SDK, LangGraph, MCP servers, RAG (Qdrant, pgvector)
+- **Automation:** n8n workflows, voice agents with Vapi, Retell AI and LiveKit, WhatsApp and Meta API integrations
 - **Full stack:** Next.js (App Router), TypeScript, Tailwind, shadcn/ui, Zustand, GSAP, FastAPI, Supabase, PostgreSQL, Redis
 - **Infrastructure:** Docker, Dapr, Kafka, Kubernetes
+
+- **Shipped:** [The Divine Group](https://thedivinegroup.net), a production site for a trucking insurance brokerage (Next.js, GSAP, Lenis, Resend), live on a custom domain.
+
+###
+
+<h3 align="left">Experience</h3>
+
+- **Agentic Fullstack Intern, Wortholic** (2025, 6 months): built an async document-extraction pipeline for commercial real estate contracts (Celery, Redis, Google Document AI, Claude, Supabase) and developed AI agents for a multi-tenant mental health navigation platform.
+- **GIAIC Agentic AI program:** Leader Student selected from 40,000+ enrolled students, now Coordinator. Runner-up at a Karachi-wide Agentic AI Hackathon.
 
 ###
 
