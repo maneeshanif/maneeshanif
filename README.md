@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneeshanif/maneeshanif/main/assets/conclave-logo-on-dark.svg">
-    <img src="https://raw.githubusercontent.com/maneeshanif/maneeshanif/main/assets/conclave-logo-on-light.svg" alt="Conclave AI" height="64">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/conclave-logo-on-dark.svg">
+    <img src="assets/conclave-logo-on-light.svg" alt="Conclave AI" height="64">
   </picture>
 </div>
 
@@ -31,7 +31,7 @@
 <h3 align="left">What I'm building</h3>
 
 - **Conclave AI**: an agentic AI startup building AI agents, voice agents, AI receptionists and n8n / Vapi automations for small businesses.
-- **Task Whisper**: an agentic to-do app with an MCP server, Kafka, Dapr and Kubernetes.
+- **Bazar Flow**: an agentic automation app for small businesses: WhatsApp messaging, Facebook scheduling, inventory and finance management, and voice-agent Q&A (Next.js, FastAPI, OpenAI Agents SDK, Meta APIs, Vapi).
 - **Showcase builds**: one-day full-stack agent apps (n8n plus a chat or voice agent), each aimed at one measurable business problem.
 
 ###
@@ -49,7 +49,7 @@
 
 <h3 align="left">Experience</h3>
 
-- **Agentic Fullstack Intern, Wortholic** (2025, 6 months): built an async document-extraction pipeline for commercial real estate contracts (Celery, Redis, Google Document AI, Claude, Supabase) and developed AI agents for a multi-tenant mental health navigation platform.
+- **Agentic Fullstack Engineer, Wortholic** (2025, 6 months): built an async document-extraction pipeline for commercial real estate contracts (Celery, Redis, Google Document AI, Claude, Supabase) and developed AI agents for a multi-tenant mental health navigation platform.
 - **GIAIC Agentic AI program:** Leader Student selected from 40,000+ enrolled students, now Coordinator. Runner-up at a Karachi-wide Agentic AI Hackathon.
 
 ###
